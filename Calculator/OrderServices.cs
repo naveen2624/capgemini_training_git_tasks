@@ -8,8 +8,7 @@ namespace Calculator
     {
         public void PlaceOrder()
         {
-            Console.WriteLine("Order placed");
+            Console.WriteLine("Order placed successfully");
         }
     }
-
 }
